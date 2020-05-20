@@ -9,7 +9,7 @@ This project assumes you are using bash version no older than `3.2.57(1)-release
 
 ## Getting Started
 
-Please run the following bash commands after you have forked and clone the `sql_practice` repo:
+Please run the following bash commands after you have forked and cloned the `sql_practice` repo:
 
 ```bash
 # install necessary packages and configures your environment for psql & pyspark
